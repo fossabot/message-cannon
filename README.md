@@ -10,6 +10,7 @@ Consume messages from message systems (RabbitMQ, NATS, Kafka) and send to other 
 [![Go Report Card](https://goreportcard.com/badge/github.com/leandro-lugaresi/message-cannon?style=flat-square)](https://goreportcard.com/report/github.com/leandro-lugaresi/message-cannon)
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/leandro-lugaresi)
 [![Powered By: GoReleaser](https://img.shields.io/badge/powered%20by-goreleaser-green.svg?style=flat-square)](https://github.com/goreleaser)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fleandro-lugaresi%2Fmessage-cannon.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fleandro-lugaresi%2Fmessage-cannon?ref=badge_shield)
 
 ---
 
@@ -95,3 +96,6 @@ You can see an example of config file [here](cannon.yml.dist)
 
 This project adheres to the Contributor Covenant [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
 We appreciate your contribution. Please refer to our [contributing guidelines](CONTRIBUTING.md) for further information.
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fleandro-lugaresi%2Fmessage-cannon.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fleandro-lugaresi%2Fmessage-cannon?ref=badge_large)
